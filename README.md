@@ -44,3 +44,7 @@ One of the significant challenges during the implementation of our simulation pr
 
 ### 3. Bibliography
 Brooks, Edward M. "The Tornado Cyclone." Weatherwise 2, no. 2 (1949): 32-33.
+
+### 4. Dependencies 
+- GLFW v3
+- Armadillo
